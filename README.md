@@ -13,19 +13,19 @@
 - It is the page that allows users to log in and register to the application.
 
 <p align="center">
-<img alt="Light" src="./FirebaseProjesi/login.png" width="350">
+<img alt="Light" src="./FirebaseProjesi/login.png" width="330">
 </p>
 
 ### Share Recipe Page
 - It is the page where the recipe and image of the dish that the user wants to share are added.
 
 <p align="center">
-<img alt="Light" src="./FirebaseProjesi/share.png" width="350">
+<img alt="Light" src="./FirebaseProjesi/share.png" width="330">
 </p>
 
 ### Recipes Page
 - This is the page where all the shared recipes are listed. The description of the user in each name that adds it is listed.
 
 <p align="center">
-<img alt="Light" src="./FirebaseProjesi/home.png" width="350">
+<img alt="Light" src="./FirebaseProjesi/home.png" width="330">
 </p>
