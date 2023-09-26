@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Senin Tarifin</string>
+    <string name="recycler_row_kullanici_email">Tarif Sahibi:</string>
+
+</resources>

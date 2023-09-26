@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+    <TextView
+        android:id="@+id/recycler_row_kullanici_email"
+        android:layout_width="326dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#86FFF5F5"
+        android:text="Tarif Sahibi: Kullanici Emaili"
+        android:textColor="#704F4F"
+        android:textSize="16sp">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/recycler_row_imageview"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/bos"></ImageView>
+    <TextView
+        android:id="@+id/recycler_row_kullanici_yorumu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kullanıcı Yorumu"
+        android:textSize="18sp"
+        android:background="#86C8A1A1"
+
+        android:textColor="#704F4F"
+        android:layout_margin="5dp"
+></TextView>
+</LinearLayout>
