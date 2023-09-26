@@ -1,4 +1,4 @@
-e# Kotlin - Recipes App
+# Kotlin - Recipes App
 - The purpose of this application is to provide a place where people can share their own recipes. In this way, since each shared recipe is displayed in a common area, other users can also have an idea about the recipes.
 - I used Firebase in the application.
 
